@@ -37,7 +37,31 @@
 
 ###
 # 💫 About Me:
-fullstack<br>
+# Olá, eu sou o João Tanan! 👋
+
+Estudante de **Ciência da Computação** apaixonado por construir soluções eficientes e seguras. Atualmente focado em evoluir minhas habilidades em desenvolvimento de software e análise de dados.
+
+### 🚀 Sobre mim:
+* 🎓 Cursando Bacharelado em Ciência da Computação (UCB).
+* 💻 Interessado em **Desenvolvimento Full Stack** (React & Node.js).
+* 🔐 Entusiasta de **Segurança da Informação** e Cyber Security.
+* 📊 Explorando o mundo da **Engenharia de Dados**.
+
+### 🛠️ Tecnologias e Ferramentas:
+* **Front-end:** React, JavaScript (ES6+), HTML5, CSS3.
+* **Back-end:** Node.js, Python, APIs REST.
+* **Ferramentas:** Git, GitHub, Linux.
+
+### 📈 No momento eu estou:
+* 🔭 Buscando minha primeira oportunidade de **Estágio em TI**.
+* ⚡ Estudando integração de APIs e boas práticas de UX/UI.
+* 🛡️ Praticando fundamentos de defesa cibernética.
+
+---
+
+### 📫 Como me encontrar:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=joaotanan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
