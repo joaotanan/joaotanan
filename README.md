@@ -36,7 +36,7 @@
 </div>
 
 ###
-# 💫 About Me:
+# About Me:
 # Olá, eu sou o João Tanan!
 
 Estudante de **Ciência da Computação** apaixonado por construir soluções eficientes e seguras. Atualmente focado em evoluir minhas habilidades em desenvolvimento de software e análise de dados.
