@@ -67,7 +67,7 @@ Estudante de **Ciência da Computação** apaixonado por construir soluções ef
 ![](https://github-readme-stats.vercel.app/api?username=joaotanan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=joaotanan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaotanan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com?user=HSA995&theme=dark&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=joaotanan&theme=dark&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=joaotanan&icon=0&color=0)](https://visitcount.itsvg.in)
